@@ -1,0 +1,8 @@
+﻿  Board.cpp
+C:\Users\RBTC\Desktop\BSCS20004_Chess - Phase 3 - Part 1\Board.cpp(356,6): warning C4101: 'kr': unreferenced local variable
+C:\Users\RBTC\Desktop\BSCS20004_Chess - Phase 3 - Part 1\Board.cpp(356,10): warning C4101: 'kc': unreferenced local variable
+C:\Users\RBTC\Desktop\BSCS20004_Chess - Phase 3 - Part 1\Board.cpp(776,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\RBTC\Desktop\BSCS20004_Chess - Phase 3 - Part 1\Board.cpp(967,7): warning C4101: 'kc': unreferenced local variable
+C:\Users\RBTC\Desktop\BSCS20004_Chess - Phase 3 - Part 1\Board.cpp(1113,6): warning C4101: 'C': unreferenced local variable
+C:\Users\RBTC\Desktop\BSCS20004_Chess - Phase 3 - Part 1\Board.cpp(1333,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Chess - Phase 1.vcxproj -> C:\Users\RBTC\Desktop\BSCS20004_Chess - Phase 3 - Part 1\x64\Debug\Chess - Phase 1.exe
